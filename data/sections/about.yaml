@@ -6,11 +6,11 @@ section:
   showOnNavbar: true
 
 # your designation
-designation: DevOps
+designation: Software Engineer
 # your company information
 company:
-  name: xiaolanhou Co.
-  url: "https://www.xlhtec.com"
+  name: Example Co.
+  url: "https://www.example.com"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
